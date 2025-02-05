@@ -8,3 +8,5 @@ Orange feature 7th line
 Grape feature 8th line 
 Apple feature 9th line
 Banana feature 10th line
+11th line Sharukh Khan
+12th line Coca Cola
